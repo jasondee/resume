@@ -1,0 +1,72 @@
+.home {
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+.homehead {
+    margin-left: 3%;
+}
+
+.resumemain {
+    margin: 2em;
+}
+
+.tab {
+    margin-left: 2em;
+}
+
+.web {
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+#resumepic {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#resumehome {
+    float: right;
+    margin-right: 5%;
+    height: 4em;
+    width: 6em;
+    border-radius: 10%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#mmpic {
+    height: 1.5em;
+    width: 1.5em;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+    margin-right: .5em;
+    float: left;
+}
+
+#me {
+    height: 3.5em;
+    width: 3em;
+    border-radius: 15%;
+    box-shadow: 2px 2px 5px #000000;
+    margin-right: .5em;
+    float: left;
+}
+
+#nodehead {
+    color: green;
+}
+
+#nodepics {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+    float: left;
+    margin-right: 2em;
+}
+
+#nodedesc {
+    margin-left: 2em;
+}
