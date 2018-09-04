@@ -17,6 +17,10 @@ app.get("/web", function(req, res){
     res.render("web");
 });
 
+app.get("/pika", function(req, res){
+    res.render("pika");
+});
+
 app.get("*", function(req, res){
     res.render("Undefined Path: You have ventured beyond the map.");
 });

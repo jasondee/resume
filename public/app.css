@@ -70,3 +70,308 @@
 #nodedesc {
     margin-left: 2em;
 }
+
+.pikaText {
+    margin-top: 3%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 4em;
+}
+
+.pikaText2 {
+    text-align: center;
+    font-size: 2em;
+}
+
+#pikapic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 40%;
+    border-radius: 10%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 60%;
+    border-radius: 5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapic2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 70%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicnm {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 70%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapichelrio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 80%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicsc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 30%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicacuna {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 40%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicmenard {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 30%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapiclc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 40%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicftw {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 25%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 40%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicaus {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    width: 30%;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapictv1{
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 200px;
+    width: 300px;
+    float: left;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapictv2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 200px;
+    width: 200px;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapictv3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 200px;
+    width: 200px;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapiccamp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 700px;
+    width: 700px;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicfat{
+    display: block;
+    margin-left: 20%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    height: 400px;
+    width: 400px;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicfat2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicforge1{
+    display: block;
+    margin-left: 25%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+#pikapicforge2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 300px;
+    width: 300px;
+    border-radius: 5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicbeer1{
+    display: block;
+    margin-left: auto;
+    margin-right: 20%;
+    float: right;
+    margin-bottom: 4em;
+    height: 600px;
+    width: 400px;
+    border-radius: 1%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicdog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicd{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6em;
+    float: left;
+    margin-bottom: 4em;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicd1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2em;
+    float: right;
+    margin-bottom: 4em;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicd2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 500px;
+    width: 550px;
+    border-radius: 1%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicarmy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+    height: 700px;
+    width: 700px;
+    border-radius: 1%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicit{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    height: 400px;
+    width: 400px;
+    border-radius: 1%;
+    box-shadow: 2px 2px 5px #000000;
+}
