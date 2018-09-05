@@ -83,6 +83,23 @@
     font-size: 2em;
 }
 
+.pikaText3 {
+    float: left;
+    font-size: 2em;
+    margin-top: 3em;
+}
+
+.pikaTexta {
+    float: right;
+    margin-right: 20%;
+    font-size: 2em;
+    margin-top: 3em;
+}
+
+.seattle {
+    margin-top: 100px;
+}
+
 #pikapic {
     display: block;
     margin-left: auto;
@@ -369,9 +386,71 @@
     margin-left: 15%;
     margin-right: auto;
     float: left;
-    margin-bottom: 4em;
+    margin-bottom: 100px;
     height: 400px;
     width: 400px;
     border-radius: 1%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicsea{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    margin-top: 100px;
+    height: 600px;
+    width: 600px;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicsea1{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    border-radius: .5%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicsea2{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicsea3{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px #000000;
+}
+
+#pikapicsea4{
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    float: left;
+    margin-bottom: 4em;
+    height: 600px;
+    width: 500px;
+    border-radius: 10%;
     box-shadow: 2px 2px 5px #000000;
 }
